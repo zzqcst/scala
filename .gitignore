@@ -53,3 +53,8 @@ fabric.properties
 *.class
 *.log
 
+将删除 SparkScala.iml
+将删除 spark-warehouse/
+将删除 src/test/
+将删除 target/
+/SparkScala.iml
